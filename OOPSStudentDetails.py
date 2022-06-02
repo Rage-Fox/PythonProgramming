@@ -16,3 +16,4 @@ a=Student(input(),input(),int(input()),int(input()))
 a.display()
 a.printf()
 a.avg()
+#to call something outside of the object, do a.m1, a.m2, etc....
